@@ -1,2 +1,1 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto Git/GitHub Bootcamp TQI
+#***Desafio de projeto sobre Git/GitHub / Bootcamp TQI Fullstack Developer***
